@@ -1,5 +1,5 @@
 export const EXTENSION_ID = 'mdpro3-duel';
-export const EXTENSION_VERSION = '0.1.7';
+export const EXTENSION_VERSION = '0.1.8';
 export const RESOURCE_VERSION = 'w12-85f0c7db432f62264c0c68e9';
 export const DEFAULT_MANIFEST = `https://assets.cloudxu.de5.net/releases/${RESOURCE_VERSION}/release.json`;
 export function validateManifestURL(value) {

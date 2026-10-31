@@ -8,8 +8,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4253,
-      "sha256": "5aed4a9059419988f1609a6165a2fb58b68cd1dd09f7f0d7146c83b07c9dbf3c"
+      "bytes": 4503,
+      "sha256": "b74ed1d5ebfe3ff420b5bbedfac1c3a705139759f5d1451c6704e9028870b77d"
     },
     {
       "path": "THIRD-PARTY-NOTICES.md",
@@ -19,7 +19,7 @@
     {
       "path": "build-info.json",
       "bytes": 408,
-      "sha256": "8e72d8c20b50f43b99b34dceaecafc52c9ec843176920e30a80cd141ffa53370"
+      "sha256": "81856a14d171aa310cc7bacc27ce12eb6829f029232636631dbd018f36040eff"
     },
     {
       "path": "capability-contract.json",
@@ -27,14 +27,14 @@
       "sha256": "4c5b9b568931e48b3dfab4cf9077a880e46a9d2bb010bf3bfa022fda087f4f51"
     },
     {
-      "path": "config.0.1.7.d4851284c4ba8f63.js",
+      "path": "config.0.1.8.df8de44418c1140b.js",
       "bytes": 973,
-      "sha256": "d4851284c4ba8f63b8f7586bc05c4ec7e8dfff96bc05e8129caeb217eef9c0e4"
+      "sha256": "df8de44418c1140b0ca68f1cd67b5139ba4d0f596f7eb04db7b74f7a810d05ff"
     },
     {
-      "path": "game/220.76185c35a9815272.js",
-      "bytes": 36142460,
-      "sha256": "9c8a02f89719d8789df92fef0fdea38cea130c101976793de37a6c1d67abaa70"
+      "path": "game/10.bd96a734e83adb74.js",
+      "bytes": 36142889,
+      "sha256": "a8938959571c7f10a2ee43b31dc9417d94b5b8232694cc1ffe7fb1d1ccf3c120"
     },
     {
       "path": "game/237.e6e8d75ae83a2403.js",
@@ -62,29 +62,29 @@
       "sha256": "f231a8ebbc71bf1e9f958c0173eaa1c2ce9f27ec654ed00b6187278cc9dc7320"
     },
     {
-      "path": "game/923.2229077187ea24ac.js",
-      "bytes": 14072,
-      "sha256": "6dd4975392442e259772aac4c5645718718c64419614c386ae1ccf4e215570f7"
+      "path": "game/923.f55235d08f6f51bd.js",
+      "bytes": 14071,
+      "sha256": "05b23f59caed1052e4c70d55bc4755a3db13ed02718861994c1999977a871437"
     },
     {
-      "path": "game/WindbotBrowser.7c78b23d1dca88ee.wasm",
+      "path": "game/WindbotBrowser.668d33265880b3bf.wasm",
       "bytes": 1182485,
-      "sha256": "7c78b23d1dca88ee06341a4f71fb0922fa9b5eec3a3aff44e9f45af9c2724a43"
+      "sha256": "668d33265880b3bfa640df2985a7feb56a37235ee47fcfca6bde7f4ec60b037e"
     },
     {
-      "path": "game/duel-worker.12915f216bba835a.mjs",
+      "path": "game/duel-worker.9da0aca48c1776d2.mjs",
       "bytes": 85039,
-      "sha256": "94aaf2f82f85c148d90b7b843535209614718f90693109e0a3ef06a9e3db0721"
+      "sha256": "2fc7e146f932ac178546dd2cc6d0f6091941b727cd63f781a6955d51d181048c"
     },
     {
-      "path": "game/game.61b60d25bd1c41d1.js",
-      "bytes": 3862,
-      "sha256": "430d71b016ea09ac0940a1e5adbb2027ed070730e3731e63fa74ecebb741aeae"
+      "path": "game/game.e1df4ebeb26c2309.js",
+      "bytes": 3861,
+      "sha256": "25800a8a516012f6a865e6bc68639bd21eca84a0cd97ecc8e8704e71d98ee9b7"
     },
     {
       "path": "game/index.html",
       "bytes": 527,
-      "sha256": "e3dff096fd18c4a130be3cccca13b95d93640a9fbd1d8b1e96ad70096b9b895e"
+      "sha256": "3c2a9f7f8aa46cd0ed07228f8451ac7a92cf709976984b471228961ac225cbbd"
     },
     {
       "path": "game/protectors/017bad0384771da0.png",
@@ -1452,14 +1452,14 @@
       "sha256": "93c1e38c8ecc3dfaca229e25b10b8d5d4b2d2256b4e9e3b9975249beb335d3b4"
     },
     {
-      "path": "index.0.1.7.b6b649d1783b512f.js",
+      "path": "index.0.1.8.e7ee729e9769bca7.js",
       "bytes": 7943,
-      "sha256": "b6b649d1783b512f95d91a9950feb825c855123f1831f59c89a03c3c63f5659c"
+      "sha256": "e7ee729e9769bca7fe18a7affabbbea09eb5dea75daadc39023e1faf92d4f0e1"
     },
     {
       "path": "manifest.json",
       "bytes": 489,
-      "sha256": "741a9e2cbd50e30c2ae1fab7f00a68bd7dd367eec47844a2f78943dc79e38926"
+      "sha256": "49c0a7f04ab611ee8487ba62a17add311c8024090ad2b788454dffa2dd264614"
     },
     {
       "path": "notices/SourceHanSans-2.004R-OFL.txt",
