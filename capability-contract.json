@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "minimum": { "sillytavern": "1.18.0", "tavernHelper": null },
+  "requirements": [
+    { "id": "host-context", "owner": "sillytavern", "symbol": "SillyTavern.getContext", "required": true, "fallback": null },
+    { "id": "host-settings", "owner": "sillytavern", "symbol": "context.extensionSettings", "required": true, "fallback": null },
+    { "id": "host-save", "owner": "sillytavern", "symbol": "context.saveSettingsDebounced", "required": true, "fallback": null },
+    { "id": "cache", "owner": "provider", "symbol": "window.caches", "required": false, "fallback": "Use verified network downloads; show the existing storage warning." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "display_name": "MDPro3 决斗",
+  "loading_order": 100,
+  "dependencies": [],
+  "js": "index.0.1.7.1aeda30ccf29afb4.js",
+  "css": "style.css",
+  "author": "CloudXu",
+  "version": "0.1.7",
+  "auto_update": false,
+  "minimum_client_version": "1.18.0",
+  "hooks": {
+    "activate": "onActivate",
+    "enable": "onEnable",
+    "disable": "onDisable",
+    "delete": "onDelete",
+    "clean": "onClean",
+    "update": "onUpdate"
+  },
+  "homePage": "https://github.com/kuroneko0514/st-ygo"
+}

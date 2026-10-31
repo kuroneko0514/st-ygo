@@ -1,0 +1,16 @@
+#mdpro3-duel-settings { margin: 10px 0; padding: 12px; border: 1px solid var(--SmartThemeBorderColor, #666); border-radius: 8px; }
+#mdpro3-duel-settings summary { cursor: pointer; font-weight: bold; }
+#mdpro3-duel-settings .mdpro3-duel-settings-body { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; }
+#mdpro3-duel-settings input { box-sizing: border-box; width: 100%; font: inherit; }
+#mdpro3-duel-settings button { cursor: pointer; padding: 8px 12px; font: inherit; }
+#mdpro3-duel-settings .mdpro3-duel-settings-body > .menu_button { width: auto; align-self: flex-start; white-space: nowrap; }
+#mdpro3-duel-settings .mdpro3-duel-settings-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+#mdpro3-duel-settings p { margin: 0; font-size: .9em; }
+#mdpro3-duel-settings small { opacity: .8; overflow-wrap: anywhere; }
+#mdpro3-duel-window { box-sizing: border-box; width: 100vw; height: 100dvh; max-width: 100vw; max-height: 100dvh; margin: 0; padding: 0; border: 0; background: #030712; color: #eee; overflow: hidden; }
+#mdpro3-duel-window[open] { display: flex; flex-direction: column; }
+#mdpro3-duel-window::backdrop { background: #000d; }
+#mdpro3-duel-window > header { display: flex; flex: 0 0 auto; align-items: center; gap: 10px; padding: 6px 12px; background: #171923; color: #eee; font: 14px system-ui; }
+#mdpro3-duel-window > header strong { margin-right: auto; }
+#mdpro3-duel-window > header button { flex: none; min-height: 34px; padding: 5px 12px; font: inherit; color: #fff; background: #282d40; border: 1px solid #72788d; border-radius: 4px; cursor: pointer; }
+#mdpro3-duel-window > iframe { width: 100%; min-height: 0; flex: 1 1 auto; border: 0; background: #030712; }

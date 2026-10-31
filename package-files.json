@@ -1,0 +1,1580 @@
+{
+  "schema": "mdpro3-extension-files-1",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 75,
+      "sha256": "d36a15db0781fc82d839244010a4823d0d59bfe3b7fa1eec4ad4437e3638dfb7"
+    },
+    {
+      "path": "build-info.json",
+      "bytes": 408,
+      "sha256": "8e72d8c20b50f43b99b34dceaecafc52c9ec843176920e30a80cd141ffa53370"
+    },
+    {
+      "path": "capability-contract.json",
+      "bytes": 671,
+      "sha256": "4c5b9b568931e48b3dfab4cf9077a880e46a9d2bb010bf3bfa022fda087f4f51"
+    },
+    {
+      "path": "config.0.1.7.d4851284c4ba8f63.js",
+      "bytes": 973,
+      "sha256": "d4851284c4ba8f63b8f7586bc05c4ec7e8dfff96bc05e8129caeb217eef9c0e4"
+    },
+    {
+      "path": "game/237.e3589f2c83495350.js",
+      "bytes": 677407,
+      "sha256": "d96ebf4a0fb3937e168d773e7332d72b6a572f928a769a74d04114f0e4b5eb26"
+    },
+    {
+      "path": "game/237.e3589f2c83495350.js.LICENSE.txt",
+      "bytes": 307,
+      "sha256": "7c4514e09faaf0ea8b4cbffa8dd1593d01f28a6a696b86cb952b0c849b221604"
+    },
+    {
+      "path": "game/411.49d2c76cb49869c2.js",
+      "bytes": 34410979,
+      "sha256": "d362490988724b8b99ca8547a10efab649bc88276c2cdb1ebe27058a88eac02b"
+    },
+    {
+      "path": "game/468.859a347c805c6058.js",
+      "bytes": 373546,
+      "sha256": "4bad49b6e93e2f141955b0c444973c19134836de399a63c6e89524e35194b1e1"
+    },
+    {
+      "path": "game/468.859a347c805c6058.js.LICENSE.txt",
+      "bytes": 735,
+      "sha256": "292eec558524aec7eaa52c03bdc5c86b00115300c332add2671fee5696a0c844"
+    },
+    {
+      "path": "game/702.2581c75cec56cca9.js",
+      "bytes": 73754,
+      "sha256": "f231a8ebbc71bf1e9f958c0173eaa1c2ce9f27ec654ed00b6187278cc9dc7320"
+    },
+    {
+      "path": "game/923.1aa8004473bcdd4d.js",
+      "bytes": 14072,
+      "sha256": "60c18eb2266cc3447696f15fd3d53ff28c526de898cf4c6275c5d6c2d88e1808"
+    },
+    {
+      "path": "game/duel-worker.39e6712ffb03f6d4.mjs",
+      "bytes": 85039,
+      "sha256": "f257320aac4cc0fc7e247e2ce1ec608d8b623355536ca393ee7a6c91f77ea771"
+    },
+    {
+      "path": "game/game.3b8f9a175539b046.js",
+      "bytes": 3862,
+      "sha256": "73bd6121bb8e00d6a4d66870fe027887cac848e8f423a7b90c6c6427f4e3b231"
+    },
+    {
+      "path": "game/index.html",
+      "bytes": 527,
+      "sha256": "d4dce7e119618413dda430795dddcd0cdc51e92540c80dfbeba5ae3f940f9e48"
+    },
+    {
+      "path": "game/protectors/017bad0384771da0.png",
+      "bytes": 672379,
+      "sha256": "71dc91d0572bf1abb444f9e4e2a499f78cecaded730530516c78404bb957a007"
+    },
+    {
+      "path": "game/protectors/01a498e8de4fa896.png",
+      "bytes": 641246,
+      "sha256": "afa049d86662b9a58d3fc588969332787be7ff000900a82f51739f67a2084797"
+    },
+    {
+      "path": "game/protectors/0240ab029746e511.png",
+      "bytes": 245918,
+      "sha256": "9dabda897edeb9470c20004ffeab0cbe70d16d1630ac18ae4ad27780fb13d83a"
+    },
+    {
+      "path": "game/protectors/0256b53c93aae43f.png",
+      "bytes": 794439,
+      "sha256": "914320b8eccae064a9c071f7c84df2ba5732520a79de680c6dc8c063d1a12bb1"
+    },
+    {
+      "path": "game/protectors/028923a46000c730.png",
+      "bytes": 877742,
+      "sha256": "f402c85a2babf88d8e2d2742b6c6d85b12ba1743a00e0a5dfcc84f95a18b1c11"
+    },
+    {
+      "path": "game/protectors/0358e943ab9e4527.png",
+      "bytes": 652739,
+      "sha256": "82cdb9bb33d8f695e8501fcccae96d6e6f9304a7c946d3a59a9f16c5a1a08f9c"
+    },
+    {
+      "path": "game/protectors/05b07496f047f9db.png",
+      "bytes": 402311,
+      "sha256": "9f5e414d0ac3185c0fddbb35909645c5d8815607be142e1f68c68e2d8e3af5e4"
+    },
+    {
+      "path": "game/protectors/0672f3849d5c88c9.png",
+      "bytes": 788542,
+      "sha256": "b04198cff14b6f339f70482df490615360dd0fdcb9537e954f7bda15335ea496"
+    },
+    {
+      "path": "game/protectors/06f0f362f0829def.png",
+      "bytes": 857222,
+      "sha256": "25f78273b580641f1a1735aae70c3185955f06f30073c54fdbd06791c33573e7"
+    },
+    {
+      "path": "game/protectors/08568e51416a5c02.png",
+      "bytes": 823467,
+      "sha256": "5f56efb4b176c7f9b9d4d484f1447e471c49a568c58ea07db31d334da13488e5"
+    },
+    {
+      "path": "game/protectors/088c17d76c24f87a.png",
+      "bytes": 774432,
+      "sha256": "55763a404e474f12588f3e5930211ac6a12a2d5aa4e3ab5c386903cbda2399f2"
+    },
+    {
+      "path": "game/protectors/0a3434d4eb37f1a1.png",
+      "bytes": 514217,
+      "sha256": "61e0b726e22917c5913396f195707d106b25dbbaefa55161d9f274844b670555"
+    },
+    {
+      "path": "game/protectors/0c669688adeb2807.png",
+      "bytes": 907308,
+      "sha256": "d2428a4a1206cb48e86cb6d5dc05c6ecc414f4aaf49a7fdb892a8e895900486c"
+    },
+    {
+      "path": "game/protectors/0ed029abb5d039af.png",
+      "bytes": 851124,
+      "sha256": "a087ea1a9515f02d682586eee9f69140b71fa6325b5875022bcce1a3895b18de"
+    },
+    {
+      "path": "game/protectors/0f3c1bebcfd5cce3.png",
+      "bytes": 768698,
+      "sha256": "158c2a804b5d3a5f9ddc0efeba51680f198ee7e6552cd4e2e4830c1967c1ae38"
+    },
+    {
+      "path": "game/protectors/10841d1fcbd437e4.png",
+      "bytes": 735741,
+      "sha256": "2797776e724ff46804200b22dce92e71ff8ab6edb49df52b7ef755af232c07ec"
+    },
+    {
+      "path": "game/protectors/111bbfdaf4091012.png",
+      "bytes": 720261,
+      "sha256": "659ed9c1d7f075889f000072abac1e4ae1b8228c078724e03eec33ca0b092560"
+    },
+    {
+      "path": "game/protectors/1188389b4ce2f2da.png",
+      "bytes": 569736,
+      "sha256": "254b63bed94fe7c7b5f224ed459cc768116a5948d05d41a70ab573b6b4b153f9"
+    },
+    {
+      "path": "game/protectors/11e4ab0674588eec.png",
+      "bytes": 627240,
+      "sha256": "8cc60ec1ef8c6c273d08ba8ead1620e7dfe7258180e78d8a651f7e3217192f51"
+    },
+    {
+      "path": "game/protectors/120fe8f0935d0bed.png",
+      "bytes": 919907,
+      "sha256": "95bc2f43e483a0d9377a9e903fa67308cbd2c958bffe0cef7e32a923939602d5"
+    },
+    {
+      "path": "game/protectors/134fbb86d6f1cfcf.png",
+      "bytes": 780261,
+      "sha256": "53ac9d53e1dcc00da7dcf0337b85e50257ce942b28e11c5ced37404e095e5e38"
+    },
+    {
+      "path": "game/protectors/13c262a2570cdbd8.png",
+      "bytes": 644236,
+      "sha256": "a3431a1e60e440329db77617411978097176381808dfac9c4d8f1a10bdd96ea0"
+    },
+    {
+      "path": "game/protectors/14ed56ec7543bd8c.png",
+      "bytes": 681534,
+      "sha256": "0cdd3c23fcdd81062eb020fb5b96a4c1bc9705799da1f71dab19f0cd6e487d3e"
+    },
+    {
+      "path": "game/protectors/160277093e32fcd0.png",
+      "bytes": 741990,
+      "sha256": "15d92f438d0dbe015e660b8b96eb8ca3f45a1a2e26620c6ff6e9f34aa2da9e3a"
+    },
+    {
+      "path": "game/protectors/17d6848126da1374.png",
+      "bytes": 709359,
+      "sha256": "99070174605e36b07c4cd38c7d4dffad2e5ec3345c7d71596680869acfbbf8f8"
+    },
+    {
+      "path": "game/protectors/19bdc9558b3f07a5.png",
+      "bytes": 530789,
+      "sha256": "2ffae46c5f718d7e148d3202c6c6854b019c3715c3620a0f0afe1443f2f79e33"
+    },
+    {
+      "path": "game/protectors/1aa92b1af509251b.png",
+      "bytes": 765435,
+      "sha256": "27d36cda1561696482a404dec621199fded9aa621fddb15737298c0882d1658a"
+    },
+    {
+      "path": "game/protectors/1aab0935c90bfa9d.png",
+      "bytes": 325557,
+      "sha256": "8a3ebe414a0c776e0513c54cb521f037373d2855175ef039f82ebf3985a2d262"
+    },
+    {
+      "path": "game/protectors/1b351df1e24a4f1d.png",
+      "bytes": 538291,
+      "sha256": "06584b79b42812cf54ec71119bcb84b890d4f63bd7c66c394cd41fd32df92e7f"
+    },
+    {
+      "path": "game/protectors/1bac26fecb2e0595.png",
+      "bytes": 810797,
+      "sha256": "5266dc75239ba21e33fe8bd965047fd658f4dbec9a016299b3b22ca2de8827f7"
+    },
+    {
+      "path": "game/protectors/1baeaefa721208e7.png",
+      "bytes": 479602,
+      "sha256": "a082d550a8f575bbd309b4c4dd36f9840d2c0a1b89009e90af5b7ca87b517431"
+    },
+    {
+      "path": "game/protectors/1c9dca2c08e7b922.png",
+      "bytes": 822530,
+      "sha256": "7bb3043f17ddee0fd14def8713e0c8f4a139cf4bc06ccc4066036ebcf9759843"
+    },
+    {
+      "path": "game/protectors/1d7768a58709bac0.png",
+      "bytes": 645954,
+      "sha256": "5e90590d8048bd3f7bd9914b9fdf85a8bc941fdde5dd116e1d651ef86a49534c"
+    },
+    {
+      "path": "game/protectors/1de850af291d591f.png",
+      "bytes": 875299,
+      "sha256": "e02f19e07555645c6c8a053a58a72b531d44867a75a60eefb237a0da5c61c25e"
+    },
+    {
+      "path": "game/protectors/1e032d34ec7c7a57.png",
+      "bytes": 650187,
+      "sha256": "fe69beadd7d1a7f87428ef73a12ea5166e937b84f860b492bb4f6451d9c8bef5"
+    },
+    {
+      "path": "game/protectors/202322e08d858c8b.png",
+      "bytes": 504384,
+      "sha256": "7a051d643795f3db84dbf0d55780b8609bdbe280c666dcaca2310cedf0c48f25"
+    },
+    {
+      "path": "game/protectors/2108ec182e216ce4.png",
+      "bytes": 835885,
+      "sha256": "6a68db38fc7381667e9cd7f744e8c4283b21032fedcb0cac0fe63b17fea83e1b"
+    },
+    {
+      "path": "game/protectors/22ac3555aae95e47.png",
+      "bytes": 691253,
+      "sha256": "6a371ce70b34501860475d5be0fc80e49e0de979924e6d913dd3fba86dd7192c"
+    },
+    {
+      "path": "game/protectors/23274debd8695b3d.png",
+      "bytes": 799407,
+      "sha256": "f67ea7fca9a2bdba198645019304073110e9ee6e01126183f8e48daa716c9903"
+    },
+    {
+      "path": "game/protectors/237999142dd6f518.png",
+      "bytes": 678214,
+      "sha256": "5eceb53546876a379220a7e9819c31a181ad6a06343a4ca68e658da6ffef45ea"
+    },
+    {
+      "path": "game/protectors/246918e1c19520b1.png",
+      "bytes": 616897,
+      "sha256": "942a2f0cbb80e7c1a15da82de291c7e716d231f4e8d3999c8a99a6ca3b285ebc"
+    },
+    {
+      "path": "game/protectors/24bb8294921d1e39.png",
+      "bytes": 880053,
+      "sha256": "a8439a8da08a941ae6535420dff9e6ad57147cc82921420c5408e63bbe5f7885"
+    },
+    {
+      "path": "game/protectors/260b4aa0cb04f16f.png",
+      "bytes": 769484,
+      "sha256": "4aeb9062f38cc3fe3bc483e05ae16e531741b79af38aee7a47461d266567a5bb"
+    },
+    {
+      "path": "game/protectors/26dff4d1904239c9.png",
+      "bytes": 781152,
+      "sha256": "b88af939b03765b65b069f19fe3ef85e3e94fbc1946069742628d09edce40151"
+    },
+    {
+      "path": "game/protectors/26f508c23039716e.png",
+      "bytes": 766042,
+      "sha256": "b939248321e0e662bb0f525fa6b4ff5d7c0a99804f49be18334a1e1441210009"
+    },
+    {
+      "path": "game/protectors/271f38d69eb9b196.png",
+      "bytes": 831193,
+      "sha256": "1b57f3b67dc3a6904a03148d79f1c4cf9cc451c5aab6c292d8bdd66ae8520138"
+    },
+    {
+      "path": "game/protectors/27c2949fd347d524.png",
+      "bytes": 828463,
+      "sha256": "edceacd03306c7c42f3c2ca8ce1d593c81ab7478abe601fcde00c0cc46153a3d"
+    },
+    {
+      "path": "game/protectors/281bf30774b5385a.png",
+      "bytes": 732088,
+      "sha256": "0030dd6b252e9d1c358311eecf9dac5e884b29827b337c78a42b16c2ca90ddd5"
+    },
+    {
+      "path": "game/protectors/29c3f6d73d599aa6.png",
+      "bytes": 780954,
+      "sha256": "7099e9fd81aae3003ef628236dd604365c420907aef71cb42d30432180e84335"
+    },
+    {
+      "path": "game/protectors/2aa1b06d1c752259.png",
+      "bytes": 800228,
+      "sha256": "00e5502d26ee48ea57095dd0ba6d16bdffdf6d4381b4fa0391491eed440efcc1"
+    },
+    {
+      "path": "game/protectors/2ac0b397c28d29b4.png",
+      "bytes": 679573,
+      "sha256": "358b5eba94d934154d273062cfc48cefb98717dd182171810bda3ab7f2ed166b"
+    },
+    {
+      "path": "game/protectors/2aef5802dbee43da.png",
+      "bytes": 904282,
+      "sha256": "d9a027ad6993d87ccb96ca9a8952b3bb01aa5c19c511c0d23285ef8f56119886"
+    },
+    {
+      "path": "game/protectors/2c411404ca70abbb.png",
+      "bytes": 741396,
+      "sha256": "df14bf757af2df45dd028abb772f65360b8d2976b366bd5aa9f70b8562a58458"
+    },
+    {
+      "path": "game/protectors/2dd7893dd798d436.png",
+      "bytes": 910115,
+      "sha256": "d3fe974cef5feadbb4cddd45e11f376fda976dedcf99010e9829fbb88dbce5d1"
+    },
+    {
+      "path": "game/protectors/2e64d68ea9a5801f.png",
+      "bytes": 860776,
+      "sha256": "9054dd294e9f33609473e58ad3e5caf5d9c5edb89a4e1019fc833ffcf522b6fc"
+    },
+    {
+      "path": "game/protectors/2e6b4f150b03d3f3.png",
+      "bytes": 883084,
+      "sha256": "d35a044b8e81fa3fde6888e41e3eb67e9c49425e7698285ed102b772b906398e"
+    },
+    {
+      "path": "game/protectors/2e828afa6f694dc2.png",
+      "bytes": 737946,
+      "sha256": "1af63407e646d52fbe9f4c0e6f49b52804791dfe7b20c15df43512ee1cc0500e"
+    },
+    {
+      "path": "game/protectors/3032b0b4b257451f.png",
+      "bytes": 545080,
+      "sha256": "93291464c776ea764849052ef2889acd69832584451a321822f43a8232785381"
+    },
+    {
+      "path": "game/protectors/320777746157f550.png",
+      "bytes": 731714,
+      "sha256": "aaeea43e384a561e0023bd674f8ccfe8b0a7bafeebf998791831a330fb66f734"
+    },
+    {
+      "path": "game/protectors/3602a7194669442a.png",
+      "bytes": 754242,
+      "sha256": "f891363d1810a27a0a1bf7a3dec62fce2ed52e9154b09047d1016f9bf22dfd5d"
+    },
+    {
+      "path": "game/protectors/37fbb73002ce76bb.png",
+      "bytes": 754672,
+      "sha256": "8a14fbbef1336ab172d02b3da0da023798d18af789e47b8a6e81be72080ae81b"
+    },
+    {
+      "path": "game/protectors/389ef5c85949c692.png",
+      "bytes": 706255,
+      "sha256": "db8e8dbb0af344abd1b5e1da8ebe01f5fdf63bcf91873f3b2ef0a7919159db56"
+    },
+    {
+      "path": "game/protectors/39ff100b4fd4b455.png",
+      "bytes": 706752,
+      "sha256": "fedf0fe9ceb661d745d20cd81035e0e9c1b1a77037344770107ab6dc03567b49"
+    },
+    {
+      "path": "game/protectors/3a18e4ad8809d829.png",
+      "bytes": 666009,
+      "sha256": "b72d03e82540c58e8c6769bd7ca4a0c753448411bec02bf797faf2892faa31a6"
+    },
+    {
+      "path": "game/protectors/3bce5db44ae7773a.png",
+      "bytes": 840244,
+      "sha256": "9f7ba0befd660b96e86381bd5f6973b8c34e9ea8b880fa8aed33eae66e5c3992"
+    },
+    {
+      "path": "game/protectors/3c4255c187f1fbb2.png",
+      "bytes": 906852,
+      "sha256": "b090a50dfd5d3f679b176531747298869c69f49e8318db155746f72b44734a46"
+    },
+    {
+      "path": "game/protectors/3e45b533def0c53f.png",
+      "bytes": 860473,
+      "sha256": "b08536f6046b59a3e062efec6aaf74ad64a46faf5a329e0d67634671249a85a8"
+    },
+    {
+      "path": "game/protectors/3fb82cfeebe955c8.png",
+      "bytes": 88595,
+      "sha256": "187260bf6f57f92a57e2ed649f8b29341f3aa35c0c66d30ab117f6c9fe297f71"
+    },
+    {
+      "path": "game/protectors/42878ce1d57f8ecb.png",
+      "bytes": 416533,
+      "sha256": "c60c8333aa7edda507d1721c393f5b66100cccedf5bd657316251a314ffb3b42"
+    },
+    {
+      "path": "game/protectors/435a742e16d52b23.png",
+      "bytes": 247847,
+      "sha256": "3b0cf734298055a4105a2f50df7fdd33f34f47f4c20ffbdea8f6a6848d2a0014"
+    },
+    {
+      "path": "game/protectors/43b9c6f8697c2316.png",
+      "bytes": 741582,
+      "sha256": "6f7ff0e7d671c3688c9dee5f86fd3d54d9d5831df91bb4da13b88c2e8ec886eb"
+    },
+    {
+      "path": "game/protectors/46495d5ecbb955cb.png",
+      "bytes": 598131,
+      "sha256": "e44cdf0c14c9b38b546ba51702a3175239e3afa636219166de453b7b6972efe6"
+    },
+    {
+      "path": "game/protectors/465a9aa44cd117b6.png",
+      "bytes": 740463,
+      "sha256": "55015a816f16eea5119db15653fe266459a5de549eb7ba9d91b1c1863d336f5a"
+    },
+    {
+      "path": "game/protectors/4896f81d6e5799ff.png",
+      "bytes": 513433,
+      "sha256": "8b6e1f8506635f0c4f861ad52bc32d9697329821b9be1060d40414109dbd9dda"
+    },
+    {
+      "path": "game/protectors/4a5a80dd158c9ccf.png",
+      "bytes": 580744,
+      "sha256": "348e9e141745239ece21b3a591aad98467982a90d6ea4157e90b2bcb82fe9e40"
+    },
+    {
+      "path": "game/protectors/4bbcf17edbe72499.png",
+      "bytes": 283358,
+      "sha256": "4041722274523751aa3d5a0b13bdbf43dae71d5815934f7662ee30d30a6cdc51"
+    },
+    {
+      "path": "game/protectors/4c34109a9adc9953.png",
+      "bytes": 809455,
+      "sha256": "384e57140b3c99bd3ee153a4bd8a3fda11f7f32a1fb9c638f8d80f9409918491"
+    },
+    {
+      "path": "game/protectors/4c36f3b8d6b244b1.png",
+      "bytes": 638999,
+      "sha256": "054daf38cbc43687da2a49a6dd96fc364ed4040b66308d63986606599221c570"
+    },
+    {
+      "path": "game/protectors/4eb8d046a0cc53ff.png",
+      "bytes": 950725,
+      "sha256": "e2ec691e31969ea4bc00fdf5d763ead708b6ee96e56ab5d47c50b969c1a1b9ae"
+    },
+    {
+      "path": "game/protectors/4f1e192ec283bf9c.png",
+      "bytes": 849442,
+      "sha256": "60cec82a058087cb1c5e61ba3ac9771bf17d6bd093c4644c438d026ddd31d1e1"
+    },
+    {
+      "path": "game/protectors/4f377d20346f81c4.png",
+      "bytes": 607711,
+      "sha256": "95654e226d7f39b2ddf9bc1fd4edfd5a32560bb8b172b3d1805666f5714557cb"
+    },
+    {
+      "path": "game/protectors/506342da827766f7.png",
+      "bytes": 756123,
+      "sha256": "f74f12ccbc8bcd65de27c93bfdf3051ac99a5a8d5301df284a82d8f933765454"
+    },
+    {
+      "path": "game/protectors/50674e05a0b198f7.png",
+      "bytes": 416552,
+      "sha256": "776afd1183b168183bc6f0df14317732a7912a5a6c365cae53c88f12a59dc90d"
+    },
+    {
+      "path": "game/protectors/529ba13995c84e3a.png",
+      "bytes": 745058,
+      "sha256": "94c7b05a2f090450304b0d35042aa6eb00aaf0c82a1a0a85e548749fd4fccb85"
+    },
+    {
+      "path": "game/protectors/5322aed74669b51f.png",
+      "bytes": 912181,
+      "sha256": "d465a38df3d0d4de82bdbb8f5161dc9cc6f43b2b52068e6838437364e6a12930"
+    },
+    {
+      "path": "game/protectors/53c8b5205ba6f119.png",
+      "bytes": 883292,
+      "sha256": "907fea3b15b1338affa8d139a2af8b60e30076d0b793a5ecdf8aeef70492232a"
+    },
+    {
+      "path": "game/protectors/540fb8c08c6bb49f.png",
+      "bytes": 827466,
+      "sha256": "ed964c25183cfd98ccd3da7b04ba0629dea64a8e491852dafa02a2ece78c9f4d"
+    },
+    {
+      "path": "game/protectors/55c7633acd561765.png",
+      "bytes": 587863,
+      "sha256": "20ae5554db54148a36a4c86edd6e9bbf42a129fcbdb197f83f44ae1b9d1987ce"
+    },
+    {
+      "path": "game/protectors/5646fee1abb8e105.png",
+      "bytes": 39900,
+      "sha256": "2328649a4d02224d48000f92a06ad8d2384f0017465b29fd42bd851df6961570"
+    },
+    {
+      "path": "game/protectors/5752ad68cb53e600.png",
+      "bytes": 588875,
+      "sha256": "d23f581bce2af39547a5f1c75258ce4f0b2c6a6ac659ed8a4ba9132b0c96a380"
+    },
+    {
+      "path": "game/protectors/57d3a21330c7d021.png",
+      "bytes": 923556,
+      "sha256": "26603213637a5770b3b7807630ffb1398b747709af2d0d7e6dad754552283929"
+    },
+    {
+      "path": "game/protectors/59f7ccfb1949a9e1.png",
+      "bytes": 885458,
+      "sha256": "72e356e9b18b26ad915573c745476dc4d3014ba021ac437caaf6ca8521382413"
+    },
+    {
+      "path": "game/protectors/5a496efeea1a1c32.png",
+      "bytes": 567819,
+      "sha256": "99dbf513385a6f28c59c9e7bc42feae842893b950cc5f6c16838bef62db574eb"
+    },
+    {
+      "path": "game/protectors/5ab1d7df99af2e47.png",
+      "bytes": 67081,
+      "sha256": "b0a6821dea1d90b21d806d3b080a1400aaf19b5398b1df5b7c1c8b7453a3c722"
+    },
+    {
+      "path": "game/protectors/5d158ac57a6b6b5d.png",
+      "bytes": 481403,
+      "sha256": "e820b0858855064a7cad74246d7e0273b23b554dbaee8850713a5b385dbc89d3"
+    },
+    {
+      "path": "game/protectors/5d1929c71f422f8a.png",
+      "bytes": 873265,
+      "sha256": "f78d8666f0a215b6551aaeab474f3b88960c1967858fb04be8c5f788241cfc7d"
+    },
+    {
+      "path": "game/protectors/5d27e4af29c412d6.png",
+      "bytes": 328489,
+      "sha256": "3889049e2cd8e1cf3fba4d4073d15967e06367a4bf07115a6366e5f589d9bc6e"
+    },
+    {
+      "path": "game/protectors/5f31097305bd3d2e.png",
+      "bytes": 742590,
+      "sha256": "767d593bbd408b642c5265de0fd311c65458c481be48cdb9a64fc198005eedb5"
+    },
+    {
+      "path": "game/protectors/64ab472ea267f973.png",
+      "bytes": 745391,
+      "sha256": "01fbb8fca3b287a278fb75312fccf6a3fd083441f0f45fb4b7bb4aaa80d6b910"
+    },
+    {
+      "path": "game/protectors/64ae1ece68e0cd57.png",
+      "bytes": 886794,
+      "sha256": "85177a6969ab5e1a69f8e4a0b3e42b3e69285cb491bc8cee4c7fd76a8e5065b8"
+    },
+    {
+      "path": "game/protectors/64f55fd8f3954167.png",
+      "bytes": 749179,
+      "sha256": "03578d354efe6f080f895fd091e80e805d1b227b3f4dc77dc2ec16dd2048d49b"
+    },
+    {
+      "path": "game/protectors/65da889ede06f1bb.png",
+      "bytes": 841721,
+      "sha256": "aa410c72bbf259c1e0e59eb4c5121364fb789babc816c7974e36720b99667b92"
+    },
+    {
+      "path": "game/protectors/67b0a6b9cba0df18.png",
+      "bytes": 714175,
+      "sha256": "bf3163f0f374724620b4a6ccb0c515d6a4b00cd2551191ab7fbb7133bad0dbaa"
+    },
+    {
+      "path": "game/protectors/67bc66e4ca18e728.png",
+      "bytes": 530796,
+      "sha256": "0690d08c9f4d8dc6e5e27c1f15f0049e2b3d0d355a76ec9a11f7d6fadaaff57b"
+    },
+    {
+      "path": "game/protectors/68e4b8c547846d99.png",
+      "bytes": 830538,
+      "sha256": "68684f2628d805d453e13857fdaa4df3f7276d6e22fa972a9c0dca872934d975"
+    },
+    {
+      "path": "game/protectors/6bfb7239c5f8991c.png",
+      "bytes": 416339,
+      "sha256": "703309c23e086f4189284de97a306b70bbdd288048fe89a3e1109b7547ecfdff"
+    },
+    {
+      "path": "game/protectors/6c93a17086180f3f.png",
+      "bytes": 5830,
+      "sha256": "c77db04cb7a7d7a4b2ead69f0c615cfaebdaa193dee8b974bb0dd1fb940e4100"
+    },
+    {
+      "path": "game/protectors/6e4fae477b76adbb.png",
+      "bytes": 798866,
+      "sha256": "55dd944f6b5f8f968b3e2db60ad55396a8d8b0d10b49396c1a498303ecfb01a2"
+    },
+    {
+      "path": "game/protectors/6f82c1ef7951bca9.png",
+      "bytes": 905413,
+      "sha256": "3571464b56a16796e4b1941ccf878ab90631854ac102c126bf975459b198f4d1"
+    },
+    {
+      "path": "game/protectors/71ed2055499e9674.png",
+      "bytes": 759613,
+      "sha256": "9b6c071622d641034076ea601c8bcc75bf181786dc9cc30ee6d0979a83edf690"
+    },
+    {
+      "path": "game/protectors/73f7740a1b7c8c8d.png",
+      "bytes": 830877,
+      "sha256": "04b5f73d491d233dc0fe7f33ec3f700c2ee2fa46be046cca64ddec79fd5f7cd2"
+    },
+    {
+      "path": "game/protectors/75a1a2a99ab849e6.png",
+      "bytes": 802431,
+      "sha256": "02fad9cf787d99b777a34bc77fd7b90fc79e3057f344fb2300d8a65fbed218c3"
+    },
+    {
+      "path": "game/protectors/75aab44eba613dc2.png",
+      "bytes": 781067,
+      "sha256": "4b53260c681b5a4e69448ab9148d5e316ba7ee27b670b5253cf33868de53434c"
+    },
+    {
+      "path": "game/protectors/75c95368200d9c1b.png",
+      "bytes": 921539,
+      "sha256": "dcccb4ec292c1b7ac961748f57261701b881585f4dabb0b8705d85a558ebc5d4"
+    },
+    {
+      "path": "game/protectors/77f8aae6663e2fcf.png",
+      "bytes": 715815,
+      "sha256": "38124c9ff2dc56d2275b25a516fe34adb95c986e3b3db9bf53552f081b16ea01"
+    },
+    {
+      "path": "game/protectors/78142a5a6239514b.png",
+      "bytes": 806938,
+      "sha256": "b9d43c57ee67e9cdff3100d9c0aba279efde8f484d3d34844baee83a5bcf8252"
+    },
+    {
+      "path": "game/protectors/79fdc30f4b9ab52b.png",
+      "bytes": 831743,
+      "sha256": "d788c1db66cb9e7853c84b1a3a4bcf2d05ded02776f8cfb280e783060334001b"
+    },
+    {
+      "path": "game/protectors/7a436cd72e07ed6f.png",
+      "bytes": 802427,
+      "sha256": "34f857da5b86f5e66a50aa92a2784ca8b3d9e48d6c0d119b5b6100a70b77acc3"
+    },
+    {
+      "path": "game/protectors/7bd7beeb5ce28008.png",
+      "bytes": 755661,
+      "sha256": "4aded4a1941ba9441328bfc1dfd3bb0b0dfa7c56903794e2cb625d042cb1b43e"
+    },
+    {
+      "path": "game/protectors/7c7744f7d2ab14e2.png",
+      "bytes": 222547,
+      "sha256": "0e30857b602b33f7156332e67edb7d906126f605d932cb4d2e10f641d5128e7d"
+    },
+    {
+      "path": "game/protectors/7ca936b01315a657.png",
+      "bytes": 648090,
+      "sha256": "8d3d3f1f41703c8191b5c3ee9a17554b3af6f0a51888a37d8aa72e4857b2b4c6"
+    },
+    {
+      "path": "game/protectors/7d2ded3edd8a33b7.png",
+      "bytes": 728746,
+      "sha256": "551f979c92e1b5b4921aaffd84c5626959e218d3cd41d3797039a6bd47ea1a43"
+    },
+    {
+      "path": "game/protectors/7d32a9a534055a32.png",
+      "bytes": 633808,
+      "sha256": "3ede9b6cc4180b4a1bccc5c3fbf927db2d40270be9b71fba4d5957d7aed000df"
+    },
+    {
+      "path": "game/protectors/7f2deb205b9ee355.png",
+      "bytes": 691414,
+      "sha256": "51b14fd88ba7d0adf970d8394ab0ec453650d3711496a627b6581654dae6979c"
+    },
+    {
+      "path": "game/protectors/7fb2fac440674e51.png",
+      "bytes": 503547,
+      "sha256": "b941cb699d3d2c12808f23deed0a520c4470afb89acdaad0f33e678128d2805d"
+    },
+    {
+      "path": "game/protectors/8086cd037f4f920b.png",
+      "bytes": 706369,
+      "sha256": "3222a968296ba0466d909bab5a7281c7a13eb804d43f2016b2c951a70ebfa6b6"
+    },
+    {
+      "path": "game/protectors/823cce30677dd54e.png",
+      "bytes": 970307,
+      "sha256": "d4708bae658249891b50d726bed873a5fdb5be383913d9b943a63a54a3d83274"
+    },
+    {
+      "path": "game/protectors/8268e8fcda09e152.png",
+      "bytes": 537579,
+      "sha256": "3812cc4d6c1ff95ca756306d933fb67f58fad306c402cb5ea7bbd61b13f3149c"
+    },
+    {
+      "path": "game/protectors/850c8536f0f22fe7.png",
+      "bytes": 868407,
+      "sha256": "a0c50f4ef1d80e6ed00530a13fecd49e83a207490789c17b6892def83963bc4e"
+    },
+    {
+      "path": "game/protectors/854e953cb08e57c8.png",
+      "bytes": 714968,
+      "sha256": "e128d80ae332218a9e317e9733bf9dc63cd2830bea76874474fa2d022a538be5"
+    },
+    {
+      "path": "game/protectors/8808a005d045ed52.png",
+      "bytes": 802656,
+      "sha256": "9e64b02e291664ef6a4090a53db6067e11a80a822460fa86bcbcbf366781dd4c"
+    },
+    {
+      "path": "game/protectors/8888d69f2d963eef.png",
+      "bytes": 889018,
+      "sha256": "57e5945fdcbfd5220461b54f7c91166558f30fccabebdb2079795e774719f45d"
+    },
+    {
+      "path": "game/protectors/88ae9551ef0e76cb.png",
+      "bytes": 846767,
+      "sha256": "f03d7abdc0e45107384d7b743d97eff990bcb961ff7c3bc3f4dd0397750268a6"
+    },
+    {
+      "path": "game/protectors/891782ee4ec4f758.png",
+      "bytes": 817361,
+      "sha256": "ab0df07894dca374fbcb2cccfe6f23bb42d58a81cbbdd708a7e3a24bd984b614"
+    },
+    {
+      "path": "game/protectors/898b71863551b544.png",
+      "bytes": 718891,
+      "sha256": "b34f1edb52e97c16f567104a084dea3f5315264234a0a686d9b05074f868ebd5"
+    },
+    {
+      "path": "game/protectors/89aced19440f06cb.png",
+      "bytes": 651617,
+      "sha256": "2ad49bc1a5824da7a876136c148ede55de0aa0ec2456ac0a2b432a0d53f5fcfc"
+    },
+    {
+      "path": "game/protectors/89d570b6a4f7f87c.png",
+      "bytes": 578009,
+      "sha256": "f956fca577ced891c99be45102265cd7ab88a579a373b3fbc6b37a73be20f72b"
+    },
+    {
+      "path": "game/protectors/8a608b9abf05e7f7.png",
+      "bytes": 812481,
+      "sha256": "8a37f8ae370da6c3d6ebd1bc7f25ad8b9dc03f7e14ee7dba16f29f471f08f88e"
+    },
+    {
+      "path": "game/protectors/8b25da4306766b3e.png",
+      "bytes": 750839,
+      "sha256": "ea2031365da4093043667813c32bf0b021a6f889f045e9601d96f70c18c98880"
+    },
+    {
+      "path": "game/protectors/8baa0bdc2bf8bcff.png",
+      "bytes": 799236,
+      "sha256": "178914123b1f77e51edace232f910e2621fadd49b228d809e4b2e6153e62006e"
+    },
+    {
+      "path": "game/protectors/8ce0b2738abe7e26.png",
+      "bytes": 815951,
+      "sha256": "ab7c8005950377c0c25f7e6ca65e90bb46639016126fd7b675e1f3ef569e4837"
+    },
+    {
+      "path": "game/protectors/8d53569bacf24ce6.png",
+      "bytes": 746616,
+      "sha256": "fea08209874976538f33cc37fe87b3c1b40035f7419f9289cd9fa44e63dba358"
+    },
+    {
+      "path": "game/protectors/8e42acd33fb59379.png",
+      "bytes": 899153,
+      "sha256": "65ad1724001bbfcd9da4ce9cb4a40e5231a3d5e50e54d4cda38db5a1c4ed09fe"
+    },
+    {
+      "path": "game/protectors/8f9dc4204a64b47e.png",
+      "bytes": 821656,
+      "sha256": "b46f73f0deba62667fadddf0eb8e5ddbe1d0265e97b0cb65effe053cb63312d6"
+    },
+    {
+      "path": "game/protectors/926c676c9e236162.png",
+      "bytes": 791044,
+      "sha256": "2f75887112ee0fbd4b2a266c02453bf8e8b9bb1c543f3f9396cb95a12e6d8c54"
+    },
+    {
+      "path": "game/protectors/94873b044d5aaf42.png",
+      "bytes": 481408,
+      "sha256": "cadfb6f1154ba08f54ace917c5dc85246da9457e3e86f752b30b720f15561c9f"
+    },
+    {
+      "path": "game/protectors/95ec78128843376e.png",
+      "bytes": 810522,
+      "sha256": "e0a533e6b7a789ac731c03ebbbd2df5db0425e16e1864a4d1e671221af90095d"
+    },
+    {
+      "path": "game/protectors/969c6c15811f0e74.png",
+      "bytes": 879220,
+      "sha256": "be7659d287cb956ae7b6565a7449f543fe3e9c0b50c8d78243eef09b3fce1ec3"
+    },
+    {
+      "path": "game/protectors/96f0bc2cb4d20039.png",
+      "bytes": 784098,
+      "sha256": "91123facdf0d19696614001c0f378c95dd4152e5a1518574ee8ba6d020572cf0"
+    },
+    {
+      "path": "game/protectors/9779667e0d395f7d.png",
+      "bytes": 927636,
+      "sha256": "1aa79741cabb5e026c2d576ba2e0e9426c651d9dd849659b951165008c77daf1"
+    },
+    {
+      "path": "game/protectors/97f5d9b5aa0610da.png",
+      "bytes": 812577,
+      "sha256": "b19cbbf76290d0b626fea81c8dee4c19cc0c05738ed86fe0cd243e5273d80806"
+    },
+    {
+      "path": "game/protectors/9a35a80c63e8eabf.png",
+      "bytes": 530370,
+      "sha256": "83e8fb630e2ba4b8d8ca2f7f45cfe6626b71a2b825d5a40b40c82da4c3cd383e"
+    },
+    {
+      "path": "game/protectors/9ac2f7220c42e077.png",
+      "bytes": 778681,
+      "sha256": "75d1bab4a407da14d841140feb76387bc9b9f065064c316568845031d6b28120"
+    },
+    {
+      "path": "game/protectors/9bde5078a92726f4.png",
+      "bytes": 734582,
+      "sha256": "b34fd7162d8519d79fa5e8b38d49f1429c30e62a1e7f2063b11b3537467a77d0"
+    },
+    {
+      "path": "game/protectors/9c4bbdf64957f4b0.png",
+      "bytes": 744511,
+      "sha256": "7a415af234168bb96db155bf730c3c6d31b0f395184e1dabd660f31ca3eabcb1"
+    },
+    {
+      "path": "game/protectors/9cb962e2862f68fe.png",
+      "bytes": 746957,
+      "sha256": "687225787019cd461d3560aa8339473da029404a6b8b72654cd67867102401fc"
+    },
+    {
+      "path": "game/protectors/a233bf72c17bab7d.png",
+      "bytes": 839785,
+      "sha256": "fcc2835f1567fa4adfaaf1d28d11664ac90356c35e1a8f44bf6acf2b50226d81"
+    },
+    {
+      "path": "game/protectors/a26ce8be7ab088b7.png",
+      "bytes": 749244,
+      "sha256": "1a798a44cc67ea6bba401c7c0b919abc7066bf61d84f19af10e5582ab0530498"
+    },
+    {
+      "path": "game/protectors/a2bd836d3d08f9ce.png",
+      "bytes": 418936,
+      "sha256": "1a6069b649f24b3b261bdccab10c85a81f8b1276e078a7626b9c332bd6eca41f"
+    },
+    {
+      "path": "game/protectors/a6f89f3d8c45c911.png",
+      "bytes": 765156,
+      "sha256": "236431ebae727f9b702bcfc5b643ef427b0372fc03cc683cec6c6cc2cceb3f1b"
+    },
+    {
+      "path": "game/protectors/a80b5fddc9d1114e.png",
+      "bytes": 247614,
+      "sha256": "0108f358b5c8b500954aad57213f5b9b186fd69fee96f9fd9723416dc659076f"
+    },
+    {
+      "path": "game/protectors/a851ff6f38a65b65.png",
+      "bytes": 769894,
+      "sha256": "8a94ef420743f85be5f58b9460e55d9cd838eb64192ed5f4f097ff964fe1bf7f"
+    },
+    {
+      "path": "game/protectors/a8f526a661c569e2.png",
+      "bytes": 295892,
+      "sha256": "4a6a91631563753f8e3b68702efb80a06f8ec2efc80043ecb08bd3744b7cb6e9"
+    },
+    {
+      "path": "game/protectors/aa04de0b3ae2ae30.png",
+      "bytes": 640707,
+      "sha256": "95a402276ae1acbabec32d22f234e0561fe968292700fbb8c61701b7671126ff"
+    },
+    {
+      "path": "game/protectors/aa37001527ca29b3.png",
+      "bytes": 814214,
+      "sha256": "db837d4e90e2e3f7f1feecc46a4d12a4e6fe3dd368047023d5c2959650b0344f"
+    },
+    {
+      "path": "game/protectors/aa56c2372cf35e7a.png",
+      "bytes": 761163,
+      "sha256": "96302869921a6a8497f5adce80eddd98e5b5e118e257ce7604b17e2ba6310a2b"
+    },
+    {
+      "path": "game/protectors/aa59ed0bb78a5674.png",
+      "bytes": 739597,
+      "sha256": "3a0376eefed9800373e89241bdb547ca94f9f2321e2f1fe1b002ccf3ccc9033f"
+    },
+    {
+      "path": "game/protectors/aeed3fbc081bac10.png",
+      "bytes": 818932,
+      "sha256": "576737880e3676a443479fc55ac66009d732ca2914bd999b81934fab85a0045f"
+    },
+    {
+      "path": "game/protectors/b046b3d1a5400967.png",
+      "bytes": 840526,
+      "sha256": "860a591e20000c845f5710364ed4c0f25efea80e6d0da205ad9bc43542af00c4"
+    },
+    {
+      "path": "game/protectors/b06930fd629f112e.png",
+      "bytes": 580190,
+      "sha256": "dd715189e8bb953200eab0255c64ae7a054a3bd9ae77408ca9890663b126e732"
+    },
+    {
+      "path": "game/protectors/b0b7a50d093b221c.png",
+      "bytes": 598834,
+      "sha256": "ce36bbfe24150a01627bbeb97c60eda6044f8f3d6e6ccfa42a0eb16862434464"
+    },
+    {
+      "path": "game/protectors/b0c5f7ae32ec02b3.png",
+      "bytes": 875489,
+      "sha256": "3540099316e696550ce0a6785cb12873e48738bfb2ef0375490feabae4e915e0"
+    },
+    {
+      "path": "game/protectors/b1027246201a085d.png",
+      "bytes": 597210,
+      "sha256": "4103d3ed133c079e05d27e06df69c2781dafc47fc03b6ffa2ae20c17072d6ec8"
+    },
+    {
+      "path": "game/protectors/b129888c5220b487.png",
+      "bytes": 416745,
+      "sha256": "62c2cc16c3cbe4de0734af4a8032c3bf247a802871c456deb9d8fc9ff0f826a2"
+    },
+    {
+      "path": "game/protectors/b2413db342480fa6.png",
+      "bytes": 505098,
+      "sha256": "9d6b108124b8bfbcda4d07f53a3c9a47a165e1b2a3c487b842caaebc9a5e6c7b"
+    },
+    {
+      "path": "game/protectors/b2ec04af452d2da8.png",
+      "bytes": 273558,
+      "sha256": "68ee2c61928a627335773387a9992ba0ac2192185a56e2261d7b03bf92482277"
+    },
+    {
+      "path": "game/protectors/b38098a48bba3768.png",
+      "bytes": 793608,
+      "sha256": "f788b8ed8f7ba936b3adbf43ecab82ce7490f9d346f45052a3c6c1252a56a8be"
+    },
+    {
+      "path": "game/protectors/b414dc5772b5e70b.png",
+      "bytes": 740260,
+      "sha256": "26672590d108c446615fc9c1e53999514c3c3e573f36601f0b3e56e00440dfc8"
+    },
+    {
+      "path": "game/protectors/b421ed312991f13f.png",
+      "bytes": 813993,
+      "sha256": "68c9d9dcc49f9fcd38501f141de16fe983e61d2fa6a063a965d4c11441810efa"
+    },
+    {
+      "path": "game/protectors/b4335c7785e66b14.png",
+      "bytes": 819941,
+      "sha256": "4b8e8835ab8d928602fa13c6b3465da571e35e7b5b425ac4d181b28114b2a8ae"
+    },
+    {
+      "path": "game/protectors/b6f9414fadedba45.png",
+      "bytes": 688660,
+      "sha256": "f8985bc75c89d150c7046271a8c86b0d1bd2d7d1ada1b8e8eb5bc785344f8cff"
+    },
+    {
+      "path": "game/protectors/b74c8d4648b4f267.png",
+      "bytes": 839210,
+      "sha256": "4f11063e4fe0bd0f85483b345ea7bd50d130489dab07afae43c5681b8a2462be"
+    },
+    {
+      "path": "game/protectors/b7bf2f3304ac3cf8.png",
+      "bytes": 825877,
+      "sha256": "fca955976077a60356fe5c609830bbc47c2b96b012d82050b711667785977735"
+    },
+    {
+      "path": "game/protectors/b9a7cef87bdcca97.png",
+      "bytes": 141883,
+      "sha256": "4e95dad31007e6650213cf4328306773994ee165994639ef200e4b1477d68db0"
+    },
+    {
+      "path": "game/protectors/b9afd729fb3fd49a.png",
+      "bytes": 375913,
+      "sha256": "dc591576c0e39510c2281b9fe4deec1f75cc0c9579a8e562c6fca4578e330649"
+    },
+    {
+      "path": "game/protectors/b9b03bde88219b4d.png",
+      "bytes": 834535,
+      "sha256": "8a248fd1078bc19c09a2f411440080d7d696fde9c0718addb7854dae88736b57"
+    },
+    {
+      "path": "game/protectors/b9b9ae4ef9d97d3c.png",
+      "bytes": 531126,
+      "sha256": "e517b335459fc700da691d6dea1be19542987bf5baeaa6b7a70737aa80d9cae6"
+    },
+    {
+      "path": "game/protectors/ba028fa234a058ee.png",
+      "bytes": 845499,
+      "sha256": "04541a2959e9d4c185d4c9810e1557e63b1668c586226dd0cb9f12620ae3d932"
+    },
+    {
+      "path": "game/protectors/bb3b40feae5f4a3f.png",
+      "bytes": 153775,
+      "sha256": "a611f30461a4cb9eaa6e1920e6563a61c3f46b42a707e15d202bbc63fb8e3a84"
+    },
+    {
+      "path": "game/protectors/bb46293f142c11ba.png",
+      "bytes": 755659,
+      "sha256": "5d3fd840d582ab3414432a682680c7b51b8a4d95882c752aa435c900f98f0e0c"
+    },
+    {
+      "path": "game/protectors/bc85c23d566473a5.png",
+      "bytes": 673693,
+      "sha256": "b43cf2ce53889133a342ff69008e9040a70835ee7a0e434eb81f6bd2f744cf03"
+    },
+    {
+      "path": "game/protectors/bc963b1df1a136d6.png",
+      "bytes": 803535,
+      "sha256": "78ff4a0116d1c971ed1013e466cac7c42f7d348f67856e1988b211255e608591"
+    },
+    {
+      "path": "game/protectors/bd509f53b5a11dd1.png",
+      "bytes": 786894,
+      "sha256": "55567eb8c301886b623d9e89d1e5b895e76e6268b65eefb2a40bfef9f333919f"
+    },
+    {
+      "path": "game/protectors/bd7f0dd7b6452037.png",
+      "bytes": 762987,
+      "sha256": "219ae70470bc57641f899c5ee5f9ce883e6bdd851cf4d8abe9b6b384250f792e"
+    },
+    {
+      "path": "game/protectors/be27b628f4211850.png",
+      "bytes": 576008,
+      "sha256": "0a23ba2f7bebb5c6b77c2a6b173d7b6b79b5484ba8b2d7a5d913be744c369635"
+    },
+    {
+      "path": "game/protectors/bfa78d76c1543fcb.png",
+      "bytes": 649750,
+      "sha256": "794f91ef903e85d50360c5b15d50551f60c9374d6c861feada5448f69db5ce89"
+    },
+    {
+      "path": "game/protectors/bff781b8b2a2265f.png",
+      "bytes": 894687,
+      "sha256": "56345c48f55bbd4409b21853f2d76074201cd6bdfc269e48fc80585ec53bfab7"
+    },
+    {
+      "path": "game/protectors/c01d8f0fa95aaa27.png",
+      "bytes": 840761,
+      "sha256": "f44537b6b2beabe928ecadda6e922a7c8247da01a494998b8438231ca8a16ac1"
+    },
+    {
+      "path": "game/protectors/c02aaea0d8b3eef0.png",
+      "bytes": 728180,
+      "sha256": "3bd9e93b663630a6f0df296dc2a6562239757b3818d6ea89fb9023244510fe87"
+    },
+    {
+      "path": "game/protectors/c1ca46ce7ea07491.png",
+      "bytes": 1042103,
+      "sha256": "691967ab0b71da26718e47820f4aa1378721a0e2ee8e3c51d60050fbbc6b8132"
+    },
+    {
+      "path": "game/protectors/c229fbdec439ffd7.png",
+      "bytes": 860120,
+      "sha256": "85bfe689785e3abe80358f7555b088429b90ad95347a5f1b08836fe5073b76bc"
+    },
+    {
+      "path": "game/protectors/c2ba40738104a075.png",
+      "bytes": 690886,
+      "sha256": "d1e1696171b750bbaf5f42fee46a7e6ef8a71629419f29e5c1263c1844762bca"
+    },
+    {
+      "path": "game/protectors/c5f5b012e8b23d0a.png",
+      "bytes": 765796,
+      "sha256": "9a7a1280cc44d09eb5698c43dbc99310fae6cf2e15630e0860be6687bbc36283"
+    },
+    {
+      "path": "game/protectors/c62bf7199440416a.png",
+      "bytes": 854731,
+      "sha256": "dc37557ebe7646fc9ffd3e5b884a8a16f770b01fffdb9870b8e3131441fe517b"
+    },
+    {
+      "path": "game/protectors/c64ab4265b6e07b2.png",
+      "bytes": 846087,
+      "sha256": "eac88c91b2dbd7f2c267655a908eaa2257a429d5e453768e8e1ae21422a472f4"
+    },
+    {
+      "path": "game/protectors/c6e707c50c1d958f.png",
+      "bytes": 561886,
+      "sha256": "acfd9adcb2a335a135176e8622722ddfa0dadbf2d827e8ad6e54ea464913bedd"
+    },
+    {
+      "path": "game/protectors/c71a9a35aaefe270.png",
+      "bytes": 762563,
+      "sha256": "18861b4f9344cd01697c4813568970e87d23c333cae80fdeb31a3e0c0954f021"
+    },
+    {
+      "path": "game/protectors/c7f0e32eebbcfae0.png",
+      "bytes": 423997,
+      "sha256": "5b278c99bf58705e45823829703a995cba7aa86d61126b57c7813824b29addb6"
+    },
+    {
+      "path": "game/protectors/c84a7016feccdd5a.png",
+      "bytes": 815604,
+      "sha256": "c3d11164a46070421da9925ceeb08a153e1b26616dfd7a516f823bf084137fcd"
+    },
+    {
+      "path": "game/protectors/c8764e1cd92b7452.png",
+      "bytes": 839829,
+      "sha256": "231a6695af95d8a8f4918bf4e588fc4b51e76bb2905a3fd83e76659dda5bf9e2"
+    },
+    {
+      "path": "game/protectors/ca17ca33e0eac53d.png",
+      "bytes": 653897,
+      "sha256": "78c1fdfa6956e67cd77816ef4084754c7d2f23818670ed33915717ed8b6d49d0"
+    },
+    {
+      "path": "game/protectors/ca7ca5927e73d80d.png",
+      "bytes": 804321,
+      "sha256": "038b7f8ffff71ba125c83eff7dbd016249d27c146f2a8851897396de7f3fa559"
+    },
+    {
+      "path": "game/protectors/ca8c91b777a2a843.png",
+      "bytes": 788370,
+      "sha256": "fad7efe8ebcffea56a9d29e25cb9c95d91381f24791deab5bac8eff942467da2"
+    },
+    {
+      "path": "game/protectors/ce70bcf1b490c311.png",
+      "bytes": 290263,
+      "sha256": "99c4ccdc9b0e04699c3ac8875a335661a56083c370ade28a336ce02f4c3ce578"
+    },
+    {
+      "path": "game/protectors/ceb9c42ec5ba0106.png",
+      "bytes": 799003,
+      "sha256": "8bd966f9e4b49e9f65c7441979f28252b569afb332b6d811c76808cbd340828b"
+    },
+    {
+      "path": "game/protectors/cf8b1b53ad0026c5.png",
+      "bytes": 573805,
+      "sha256": "b49321f46f74c7c14693470e78e65bcc4fff6c96bb135b1a9ba5cfad9d0b89e5"
+    },
+    {
+      "path": "game/protectors/cff26818ce567517.png",
+      "bytes": 735487,
+      "sha256": "c271bee909d9c4a3c01591af00ff0328f90da2f49d24677fe8c7fba975a95349"
+    },
+    {
+      "path": "game/protectors/d07e0950f70c881f.png",
+      "bytes": 740922,
+      "sha256": "5ba71eeaea2931908315bbff8fe30c011deb458beba31a2c7d88b4cace0ddfb0"
+    },
+    {
+      "path": "game/protectors/d0e9b1d72cf4ad27.png",
+      "bytes": 676834,
+      "sha256": "492f3f42b6b90badee07260da3a04fec5e91f45ab5438aa2e3952ec5081b8faa"
+    },
+    {
+      "path": "game/protectors/d4a68e861917ac2b.png",
+      "bytes": 711331,
+      "sha256": "813be8f126377c583d0803292dd96788d13a240ea28cbdb10689772313a06902"
+    },
+    {
+      "path": "game/protectors/d4b42614700770c4.png",
+      "bytes": 805711,
+      "sha256": "dfd7e476965fdf71a5e8a155f842676751596d55ead0d61f1ca7445cb17cb2ed"
+    },
+    {
+      "path": "game/protectors/d52a7b5ae3a363a3.png",
+      "bytes": 509915,
+      "sha256": "df9160b043fad875048b775df4d1d63fd1c3de2a07b8c8da7d1cbf2e1fddc9fe"
+    },
+    {
+      "path": "game/protectors/d680ceeebfc6ddb1.png",
+      "bytes": 145534,
+      "sha256": "dc71ff8f327b85ce294aac678ac2ef44c9ee2c72c7ef907c76b0828c57795992"
+    },
+    {
+      "path": "game/protectors/d6e8fb73919617b3.png",
+      "bytes": 785649,
+      "sha256": "394d9f49884d643ed97e832ba8bc54007894eff6124b08cdfb0335e269d4b741"
+    },
+    {
+      "path": "game/protectors/d93766f33e141605.png",
+      "bytes": 498886,
+      "sha256": "c3e177e99f4382c2617ea19212d798abc3f03295e6dd13d3f473492adc3b8cb7"
+    },
+    {
+      "path": "game/protectors/d978a8b45f413e4f.png",
+      "bytes": 705906,
+      "sha256": "8e653e200e86eee8c4a8419fea3807cb3eb560a7e1268e9a44e7dc950460f07f"
+    },
+    {
+      "path": "game/protectors/d99c082dea4973cb.png",
+      "bytes": 371587,
+      "sha256": "d47c6472babe0c05ff05d063445c108add369b4624c2933f4d09dbb918955e53"
+    },
+    {
+      "path": "game/protectors/dbc1c71dcc6e936e.png",
+      "bytes": 536146,
+      "sha256": "182171499e97650f9e9140ff189f9dbe30dba7292f44fc729b7722c1dccc7a91"
+    },
+    {
+      "path": "game/protectors/dd7661a628e3b742.png",
+      "bytes": 787847,
+      "sha256": "dedb2b82998387b0e0ebd8e15bad36607267e685902f088cc6fa24d0c28ce4d4"
+    },
+    {
+      "path": "game/protectors/de360760804640f6.png",
+      "bytes": 923621,
+      "sha256": "04ed5e022ad39734d55a597caa9f1b5e29b79b8be874c1c4c9c5958904028344"
+    },
+    {
+      "path": "game/protectors/de6032989e3ae6cf.png",
+      "bytes": 805601,
+      "sha256": "ad4ea10df136e53c68c45e5777f2e046194b63018830def3ac5781ff5ca534d7"
+    },
+    {
+      "path": "game/protectors/e1df3c1882be987a.png",
+      "bytes": 618737,
+      "sha256": "8dba000e59de26e7ea899a134a9c4c7cf4fc30303c6fd29cd39b2214e180f601"
+    },
+    {
+      "path": "game/protectors/e24144e6b6330c9d.png",
+      "bytes": 805076,
+      "sha256": "e9ba7d633e4d056067841e157e4aa7361a640244a8e276ce93341c687fa5f482"
+    },
+    {
+      "path": "game/protectors/e255b5bce54b4f01.png",
+      "bytes": 770690,
+      "sha256": "3ac72e6f2da7ef6bec0dbf7d2449d0c0109f750b9dd4d3d81e1537f478c4de30"
+    },
+    {
+      "path": "game/protectors/e2c1afc57b11d2f1.png",
+      "bytes": 714085,
+      "sha256": "6c84f43ccdaf06feab967f999fd9f71fd0e40104be2eded7bf874560eb0497b1"
+    },
+    {
+      "path": "game/protectors/e34687f0a44a2730.png",
+      "bytes": 419208,
+      "sha256": "7789df9298caa2bc8c348e8f8b13023dfc8a8aa526f3d3f75f2f948c6cea6507"
+    },
+    {
+      "path": "game/protectors/e402131eb77d17e3.png",
+      "bytes": 798461,
+      "sha256": "3debcf05049e362e16cee4c5b94fc439b8453f4c272a1b971c4971e0d91bf780"
+    },
+    {
+      "path": "game/protectors/e43123be5b8b359b.png",
+      "bytes": 807042,
+      "sha256": "75eb777e280f262d8485e7bbbb24771d3e9cfd5ffcb3e03bdd4da3fb9a964eda"
+    },
+    {
+      "path": "game/protectors/e48523211b505389.png",
+      "bytes": 690880,
+      "sha256": "3f303a00396b3ec6a805a1f4bdc4ad32bb15f0ee405194077844154514060e62"
+    },
+    {
+      "path": "game/protectors/e4f7501400cebd25.png",
+      "bytes": 811735,
+      "sha256": "2ebec41853ff17926202f6496dfd670bbf481bdea59328d9570b02b87abb0b80"
+    },
+    {
+      "path": "game/protectors/e507a428c9b2dd6c.png",
+      "bytes": 817023,
+      "sha256": "13e92e794bd2a077478c19266cc5901ae39f1e80ea54144a09945efd360d5dcc"
+    },
+    {
+      "path": "game/protectors/e7d4c86243254183.png",
+      "bytes": 873193,
+      "sha256": "155bc05a7e22ad2054775da1534435c2746ac2eaeefeca9b537b813e765c3c26"
+    },
+    {
+      "path": "game/protectors/e7e55858bf99ad74.png",
+      "bytes": 631145,
+      "sha256": "03431b049b20ae3dd667a99ec2523eaba84b209d15fd941cb6d71dbbb5506f48"
+    },
+    {
+      "path": "game/protectors/e9d469bb7a45467f.png",
+      "bytes": 816402,
+      "sha256": "8620eba08d8407ae04e0b8ca0f310492d1da00cec34ed99f5448e1b976d6866e"
+    },
+    {
+      "path": "game/protectors/eb9e9da79dae0d04.png",
+      "bytes": 416570,
+      "sha256": "7c051ac9e88c3b8a600307ed10ad7d80d0b15c1d97d38558efba17e3592c45b5"
+    },
+    {
+      "path": "game/protectors/ec77777c6dc075d8.png",
+      "bytes": 777983,
+      "sha256": "d1e1261b3fcacaea8671e106d84c20936935e85a268468b2748d3477d017497a"
+    },
+    {
+      "path": "game/protectors/ed9c547d4e8070fa.png",
+      "bytes": 684136,
+      "sha256": "43f0d2d30c35e7c0ea821a421a77727fe3f07aed76eb27de84c2bfb994e082d0"
+    },
+    {
+      "path": "game/protectors/edb856348a0cc5a3.png",
+      "bytes": 790841,
+      "sha256": "9b36eace047d3940efcfca552df63c817c430f204ae2c3e33b76fe82886456f5"
+    },
+    {
+      "path": "game/protectors/edf5093aed9401bf.png",
+      "bytes": 418744,
+      "sha256": "6e76b56f03ff048cae5a74aeb68a8410755c0ec91eb361d9404ef7e5aa713346"
+    },
+    {
+      "path": "game/protectors/ef917a61a11b8581.png",
+      "bytes": 682465,
+      "sha256": "c09360998a7f53f38bff234e68256a4f91ae8a048b39df620930d80d5228c092"
+    },
+    {
+      "path": "game/protectors/f08a7623bd023e14.png",
+      "bytes": 246051,
+      "sha256": "ad310e1cfebc22a02495082472dbaf272b5d1b8fc97d789f4d849ffee388dc33"
+    },
+    {
+      "path": "game/protectors/f0dff42468e06de3.png",
+      "bytes": 778960,
+      "sha256": "f7993a37de4a5352dcb779c224310c97ab9d507287e25f41184c463c4efa3821"
+    },
+    {
+      "path": "game/protectors/f1181b88eb1a0740.png",
+      "bytes": 574786,
+      "sha256": "656836ff0593e2a1b586585d1fda79e5eda0ba3d52100e69734f6c73d4fefbf7"
+    },
+    {
+      "path": "game/protectors/f2652850f2f0521c.png",
+      "bytes": 786266,
+      "sha256": "71181ef9c35fb9a061d1fd83a876d4743958aaa1237feb455fd1b87f931a7f80"
+    },
+    {
+      "path": "game/protectors/f3568232e9f72607.png",
+      "bytes": 805329,
+      "sha256": "84a48c05ba2ca9514e52bced8930b6325a63373615b27452a049b5528c18fe4b"
+    },
+    {
+      "path": "game/protectors/f358762588ef1c31.png",
+      "bytes": 635193,
+      "sha256": "37098859e8ef9ea352cf5425fcbf195cd17e73dc2ca126bc00e7272dcbb2d33f"
+    },
+    {
+      "path": "game/protectors/f64d0ea06319a003.png",
+      "bytes": 819240,
+      "sha256": "ab9069489a2cc9ca8509557599fd1524c53763f6d72aa9c0b7f888494af3d2c7"
+    },
+    {
+      "path": "game/protectors/f6d1b309e1a45031.png",
+      "bytes": 508230,
+      "sha256": "4d0065719ef1e5e282c55e38c0c3ccfedb7ceff518c76b267fd49e6c3ee3fd5e"
+    },
+    {
+      "path": "game/protectors/f76bf6e87a856598.png",
+      "bytes": 275800,
+      "sha256": "8dee717b7ea4c55fce71b5bee7de18ea072c84908bf0316b1d578335aeae348e"
+    },
+    {
+      "path": "game/protectors/f76e38b7aa9ffc2b.png",
+      "bytes": 687900,
+      "sha256": "af1044a8add757910021edc327b052e13620a187a46b22af3d374a4c0ce9a17d"
+    },
+    {
+      "path": "game/protectors/f841071c94a37faa.png",
+      "bytes": 257646,
+      "sha256": "ba09843b4284af62a4571dad18f0587685e4dee8c4711874ade34901cea3251a"
+    },
+    {
+      "path": "game/protectors/f8cdd32fb165f471.png",
+      "bytes": 715838,
+      "sha256": "55a0c3b5e44a0cdf230c9adeba8b3a63cdf2d0b735a091cfece3fcb813777ab9"
+    },
+    {
+      "path": "game/protectors/f9f5f0e726369d87.png",
+      "bytes": 726133,
+      "sha256": "fa2d9511f60f6a1a4790f938dd6a6a8f47d8e87512ccc2920046e7227cf3cb54"
+    },
+    {
+      "path": "game/protectors/f9fe94e6e970f8ce.png",
+      "bytes": 534388,
+      "sha256": "66b602f3b95037c90ed765d1dcb7785ffd6d570963c1ba4fcbe46e83ca800538"
+    },
+    {
+      "path": "game/protectors/fa1bf5f6532e20e5.png",
+      "bytes": 78,
+      "sha256": "f75c8af4ad31eee3f6689c81126c676487babb8722b361a7eb4eaff5a2c3c1cd"
+    },
+    {
+      "path": "game/protectors/fa700986928ab69d.png",
+      "bytes": 792846,
+      "sha256": "6bd6de2bcb1dc922353e124cc32b9db95f9f154b9c4e2ba8901b0298ec4ccd75"
+    },
+    {
+      "path": "game/protectors/fa953c13fcf79891.png",
+      "bytes": 793627,
+      "sha256": "a509367c580c6f05b239c1861ec508f2e8c28db72d6d1f792582371a85569269"
+    },
+    {
+      "path": "game/protectors/fbb185aa238e9bb7.png",
+      "bytes": 768327,
+      "sha256": "a43b0d673ccc2b5b7780cf10a34b391d43af9b3adddd9d972321131d80d11a38"
+    },
+    {
+      "path": "game/protectors/fcb1574fcadb9c92.png",
+      "bytes": 459938,
+      "sha256": "f4655f979190dd7dba93e3901f069eadaddb9f7ad8d8c1d4de9002d885d1a40b"
+    },
+    {
+      "path": "game/protectors/fd446ed5f36a6d26.png",
+      "bytes": 705954,
+      "sha256": "fa16de95a0f7854d75a75365d7010164e4b2b364ae149bf529cbe2171d96efd3"
+    },
+    {
+      "path": "game/protectors/fd8775887bc12c3e.png",
+      "bytes": 795159,
+      "sha256": "78bc72da7cf3f135321ebb16f77f401c07f43371d8c29ec682aab5a2ad8ac026"
+    },
+    {
+      "path": "game/protectors/ffa70bd6316593fd.png",
+      "bytes": 770651,
+      "sha256": "d870c58147e97f9c957402cb8e1aae5cef9b94bd7af30651f147f5d7958b032d"
+    },
+    {
+      "path": "game/protectors/ffcae4c0d37b5c93.png",
+      "bytes": 768026,
+      "sha256": "93c1e38c8ecc3dfaca229e25b10b8d5d4b2d2256b4e9e3b9975249beb335d3b4"
+    },
+    {
+      "path": "game/WindbotBrowser.3c49d62567fa51f3.wasm",
+      "bytes": 1182485,
+      "sha256": "3c49d62567fa51f39b3d9ccf5a26f10bf37068e2099c10d768c1441a05bf58de"
+    },
+    {
+      "path": "index.0.1.7.1aeda30ccf29afb4.js",
+      "bytes": 7943,
+      "sha256": "1aeda30ccf29afb4a12c174d11f912c14ad0ebbdff52b5dbd6bebe06d0ba8932"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 509,
+      "sha256": "b7d37bb2f2e644458a81665190e985da3dc05369c745f4469b005b4807c156dd"
+    },
+    {
+      "path": "notices/dotnet-runtime-MIT.txt",
+      "bytes": 1116,
+      "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+    },
+    {
+      "path": "notices/dotnet-runtime-THIRD-PARTY-NOTICES.txt",
+      "bytes": 67638,
+      "sha256": "97c1a7b3da6a4c6ad516448719f45114b41a4d4c5aa300a944476e2e4f5da438"
+    },
+    {
+      "path": "notices/emscripten-LICENSE.txt",
+      "bytes": 5093,
+      "sha256": "620a78084fc7ca97c0b5dea9abf891f3ffcadfdbf305276f099c9c4e12fc1d86"
+    },
+    {
+      "path": "notices/lua-5.4.8-readme.html",
+      "bytes": 11056,
+      "sha256": "3773a4900f3539c56aea9d6cd48d71c8751d495c4abc28472706bb9553d1493c"
+    },
+    {
+      "path": "notices/npm/@esotericsoftware/spine-core/LICENSE",
+      "bytes": 1468,
+      "sha256": "435774fb793b0f67892899fc934f98009e64fd90ad3ab964117274e279a0f50e"
+    },
+    {
+      "path": "notices/npm/@esotericsoftware/spine-threejs/LICENSE",
+      "bytes": 1468,
+      "sha256": "435774fb793b0f67892899fc934f98009e64fd90ad3ab964117274e279a0f50e"
+    },
+    {
+      "path": "notices/npm/@vue/reactivity/LICENSE",
+      "bytes": 1091,
+      "sha256": "1bb85cc9b13b81ef41c81c51866172fc345e0503c86726a6755b796590b70175"
+    },
+    {
+      "path": "notices/npm/@vue/runtime-core/LICENSE",
+      "bytes": 1091,
+      "sha256": "1bb85cc9b13b81ef41c81c51866172fc345e0503c86726a6755b796590b70175"
+    },
+    {
+      "path": "notices/npm/@vue/runtime-dom/LICENSE",
+      "bytes": 1091,
+      "sha256": "1bb85cc9b13b81ef41c81c51866172fc345e0503c86726a6755b796590b70175"
+    },
+    {
+      "path": "notices/npm/@vue/shared/LICENSE",
+      "bytes": 1091,
+      "sha256": "1bb85cc9b13b81ef41c81c51866172fc345e0503c86726a6755b796590b70175"
+    },
+    {
+      "path": "notices/npm/css-loader/LICENSE",
+      "bytes": 1071,
+      "sha256": "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e"
+    },
+    {
+      "path": "notices/npm/jquery/LICENSE.txt",
+      "bytes": 1097,
+      "sha256": "d4db9ebe6f29f5168eac45ad713f055623ac5d0dcd5ba92da23d650ae012020d"
+    },
+    {
+      "path": "notices/npm/klona/license",
+      "bytes": 1104,
+      "sha256": "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97"
+    },
+    {
+      "path": "notices/npm/pinia/LICENSE",
+      "bytes": 1100,
+      "sha256": "91a2845c4db44e7497b514b98634a674c737986ad0db81599307cf733bf850b2"
+    },
+    {
+      "path": "notices/npm/style-loader/LICENSE",
+      "bytes": 1071,
+      "sha256": "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e"
+    },
+    {
+      "path": "notices/npm/three/LICENSE",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "notices/npm/vue-loader/LICENSE",
+      "bytes": 1081,
+      "sha256": "6db2f08c2112251083b26df3117dde40c5589d337195953531e7e677d1a600e5"
+    },
+    {
+      "path": "notices/npm/zod/LICENSE",
+      "bytes": 1072,
+      "sha256": "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8"
+    },
+    {
+      "path": "notices/scripts-ZIP-LICENSE.txt",
+      "bytes": 18431,
+      "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
+    },
+    {
+      "path": "notices/SourceHanSans-2.004R-OFL.txt",
+      "bytes": 4464,
+      "sha256": "48c81da1f503251256ecd8527476acd6dba2ac6a936655440950a9ea51ac7f51"
+    },
+    {
+      "path": "notices/windbot-IceYGO-MIT.txt",
+      "bytes": 1079,
+      "sha256": "05f92cab7dc0668eb58519965c614d31bf357ab569bc2a53b3c267d6d46676ec"
+    },
+    {
+      "path": "notices/ygopro-core-GPL-2.txt",
+      "bytes": 18092,
+      "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4195,
+      "sha256": "2e456c3257e01af415d508152af91cead558d7095bcf02bd336e547cfec60664"
+    },
+    {
+      "path": "style.css",
+      "bytes": 1706,
+      "sha256": "af63e94be4b6e2e545c92981b6470402df10009986efa7bf1666c2e460d408ed"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 967,
+      "sha256": "846f9626ed992a41920702dd1fea107dac922bb5c04b56d3f0703f773ab87cfd"
+    }
+  ]
+}

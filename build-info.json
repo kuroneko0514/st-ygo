@@ -1,0 +1,14 @@
+{
+  "schema": "mdpro3-extension-build-1",
+  "extensionVersion": "0.1.7",
+  "programVersion": "mdpro3-w10-1",
+  "resourceVersion": "w12-85f0c7db432f62264c0c68e9",
+  "hostBaseline": {
+    "version": "1.18.0",
+    "commit": "51ad27fb86d39a3daca3adaa970375c9670c12df"
+  },
+  "playerRuntime": "browser-only",
+  "tavernHelperRequired": false,
+  "realHostAccepted": false,
+  "mobileAccepted": false
+}
