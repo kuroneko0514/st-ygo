@@ -7,6 +7,16 @@
       "sha256": "d36a15db0781fc82d839244010a4823d0d59bfe3b7fa1eec4ad4437e3638dfb7"
     },
     {
+      "path": "README.md",
+      "bytes": 4253,
+      "sha256": "5aed4a9059419988f1609a6165a2fb58b68cd1dd09f7f0d7146c83b07c9dbf3c"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 967,
+      "sha256": "846f9626ed992a41920702dd1fea107dac922bb5c04b56d3f0703f773ab87cfd"
+    },
+    {
       "path": "build-info.json",
       "bytes": 408,
       "sha256": "8e72d8c20b50f43b99b34dceaecafc52c9ec843176920e30a80cd141ffa53370"
@@ -22,19 +32,19 @@
       "sha256": "d4851284c4ba8f63b8f7586bc05c4ec7e8dfff96bc05e8129caeb217eef9c0e4"
     },
     {
-      "path": "game/237.e3589f2c83495350.js",
-      "bytes": 677407,
-      "sha256": "d96ebf4a0fb3937e168d773e7332d72b6a572f928a769a74d04114f0e4b5eb26"
+      "path": "game/220.76185c35a9815272.js",
+      "bytes": 36142460,
+      "sha256": "9c8a02f89719d8789df92fef0fdea38cea130c101976793de37a6c1d67abaa70"
     },
     {
-      "path": "game/237.e3589f2c83495350.js.LICENSE.txt",
+      "path": "game/237.e6e8d75ae83a2403.js",
+      "bytes": 681070,
+      "sha256": "c181f81425576713ae617ae012224b785b72893596241155a4eca3022cf1f02f"
+    },
+    {
+      "path": "game/237.e6e8d75ae83a2403.js.LICENSE.txt",
       "bytes": 307,
       "sha256": "7c4514e09faaf0ea8b4cbffa8dd1593d01f28a6a696b86cb952b0c849b221604"
-    },
-    {
-      "path": "game/411.49d2c76cb49869c2.js",
-      "bytes": 34410979,
-      "sha256": "d362490988724b8b99ca8547a10efab649bc88276c2cdb1ebe27058a88eac02b"
     },
     {
       "path": "game/468.859a347c805c6058.js",
@@ -52,24 +62,29 @@
       "sha256": "f231a8ebbc71bf1e9f958c0173eaa1c2ce9f27ec654ed00b6187278cc9dc7320"
     },
     {
-      "path": "game/923.1aa8004473bcdd4d.js",
+      "path": "game/923.2229077187ea24ac.js",
       "bytes": 14072,
-      "sha256": "60c18eb2266cc3447696f15fd3d53ff28c526de898cf4c6275c5d6c2d88e1808"
+      "sha256": "6dd4975392442e259772aac4c5645718718c64419614c386ae1ccf4e215570f7"
     },
     {
-      "path": "game/duel-worker.39e6712ffb03f6d4.mjs",
+      "path": "game/WindbotBrowser.7c78b23d1dca88ee.wasm",
+      "bytes": 1182485,
+      "sha256": "7c78b23d1dca88ee06341a4f71fb0922fa9b5eec3a3aff44e9f45af9c2724a43"
+    },
+    {
+      "path": "game/duel-worker.12915f216bba835a.mjs",
       "bytes": 85039,
-      "sha256": "f257320aac4cc0fc7e247e2ce1ec608d8b623355536ca393ee7a6c91f77ea771"
+      "sha256": "94aaf2f82f85c148d90b7b843535209614718f90693109e0a3ef06a9e3db0721"
     },
     {
-      "path": "game/game.3b8f9a175539b046.js",
+      "path": "game/game.61b60d25bd1c41d1.js",
       "bytes": 3862,
-      "sha256": "73bd6121bb8e00d6a4d66870fe027887cac848e8f423a7b90c6c6427f4e3b231"
+      "sha256": "430d71b016ea09ac0940a1e5adbb2027ed070730e3731e63fa74ecebb741aeae"
     },
     {
       "path": "game/index.html",
       "bytes": 527,
-      "sha256": "d4dce7e119618413dda430795dddcd0cdc51e92540c80dfbeba5ae3f940f9e48"
+      "sha256": "e3dff096fd18c4a130be3cccca13b95d93640a9fbd1d8b1e96ad70096b9b895e"
     },
     {
       "path": "game/protectors/017bad0384771da0.png",
@@ -1437,19 +1452,19 @@
       "sha256": "93c1e38c8ecc3dfaca229e25b10b8d5d4b2d2256b4e9e3b9975249beb335d3b4"
     },
     {
-      "path": "game/WindbotBrowser.3c49d62567fa51f3.wasm",
-      "bytes": 1182485,
-      "sha256": "3c49d62567fa51f39b3d9ccf5a26f10bf37068e2099c10d768c1441a05bf58de"
-    },
-    {
-      "path": "index.0.1.7.1aeda30ccf29afb4.js",
+      "path": "index.0.1.7.b6b649d1783b512f.js",
       "bytes": 7943,
-      "sha256": "1aeda30ccf29afb4a12c174d11f912c14ad0ebbdff52b5dbd6bebe06d0ba8932"
+      "sha256": "b6b649d1783b512f95d91a9950feb825c855123f1831f59c89a03c3c63f5659c"
     },
     {
       "path": "manifest.json",
-      "bytes": 509,
-      "sha256": "b7d37bb2f2e644458a81665190e985da3dc05369c745f4469b005b4807c156dd"
+      "bytes": 489,
+      "sha256": "741a9e2cbd50e30c2ae1fab7f00a68bd7dd367eec47844a2f78943dc79e38926"
+    },
+    {
+      "path": "notices/SourceHanSans-2.004R-OFL.txt",
+      "bytes": 4464,
+      "sha256": "48c81da1f503251256ecd8527476acd6dba2ac6a936655440950a9ea51ac7f51"
     },
     {
       "path": "notices/dotnet-runtime-MIT.txt",
@@ -1547,11 +1562,6 @@
       "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
     },
     {
-      "path": "notices/SourceHanSans-2.004R-OFL.txt",
-      "bytes": 4464,
-      "sha256": "48c81da1f503251256ecd8527476acd6dba2ac6a936655440950a9ea51ac7f51"
-    },
-    {
       "path": "notices/windbot-IceYGO-MIT.txt",
       "bytes": 1079,
       "sha256": "05f92cab7dc0668eb58519965c614d31bf357ab569bc2a53b3c267d6d46676ec"
@@ -1562,19 +1572,9 @@
       "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
     },
     {
-      "path": "README.md",
-      "bytes": 4195,
-      "sha256": "2e456c3257e01af415d508152af91cead558d7095bcf02bd336e547cfec60664"
-    },
-    {
       "path": "style.css",
       "bytes": 1706,
       "sha256": "af63e94be4b6e2e545c92981b6470402df10009986efa7bf1666c2e460d408ed"
-    },
-    {
-      "path": "THIRD-PARTY-NOTICES.md",
-      "bytes": 967,
-      "sha256": "846f9626ed992a41920702dd1fea107dac922bb5c04b56d3f0703f773ab87cfd"
     }
   ]
 }
