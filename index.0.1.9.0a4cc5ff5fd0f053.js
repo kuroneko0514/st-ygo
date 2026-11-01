@@ -1,7 +1,7 @@
-import { DEFAULT_MANIFEST, EXTENSION_ID, EXTENSION_VERSION, RESOURCE_VERSION, readSettings, validateManifestURL } from './config.0.1.8.df8de44418c1140b.js';
+import { DEFAULT_MANIFEST, EXTENSION_ID, EXTENSION_VERSION, RESOURCE_VERSION, readSettings, validateManifestURL } from './config.0.1.9.9bb40116acad439f.js';
 let cleanup;
 // Replaced by the build; the displayed extension version can stay unchanged.
-const BUILD_ID = '3c2a9f7f8aa46cd0';
+const BUILD_ID = '5cddea6f197bf37c';
 function context() {
     const host = window.SillyTavern?.getContext?.();
     if (!host?.extensionSettings || typeof host.saveSettingsDebounced !== 'function')

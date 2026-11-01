@@ -1,8 +1,8 @@
 {
   "schema": "mdpro3-extension-build-1",
-  "extensionVersion": "0.1.8",
+  "extensionVersion": "0.1.9",
   "programVersion": "mdpro3-w10-1",
-  "resourceVersion": "w12-85f0c7db432f62264c0c68e9",
+  "resourceVersion": "w14-graves-e8ad35a1baf58f7a2ddebf5f",
   "hostBaseline": {
     "version": "1.18.0",
     "commit": "51ad27fb86d39a3daca3adaa970375c9670c12df"
