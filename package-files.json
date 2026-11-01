@@ -2,9 +2,24 @@
   "schema": "mdpro3-extension-files-1",
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 75,
+      "sha256": "d36a15db0781fc82d839244010a4823d0d59bfe3b7fa1eec4ad4437e3638dfb7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5395,
+      "sha256": "9129c46eb75c0c15c332af08ebf557ab90b95c1d5e969bbf0af7c658b992db3b"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 967,
+      "sha256": "846f9626ed992a41920702dd1fea107dac922bb5c04b56d3f0703f773ab87cfd"
+    },
+    {
       "path": "build-info.json",
-      "bytes": 415,
-      "sha256": "bf1fb563746b885c98cef11331d3fa3b1ffc6c5d0d60be6f0946d1d48446664c"
+      "bytes": 416,
+      "sha256": "9f69780cc3566d2041d1b2f30901231ed38239b297dd07ff4adc66efcae03784"
     },
     {
       "path": "capability-contract.json",
@@ -12,9 +27,9 @@
       "sha256": "4c5b9b568931e48b3dfab4cf9077a880e46a9d2bb010bf3bfa022fda087f4f51"
     },
     {
-      "path": "config.0.1.9.9bb40116acad439f.js",
-      "bytes": 1150,
-      "sha256": "9bb40116acad439f74945213b8ff4f5f8e1db0ca543caf348ebd33745404ba04"
+      "path": "config.0.1.13.dfd3a0ae552423ea.js",
+      "bytes": 1151,
+      "sha256": "dfd3a0ae552423ea58b8e828efb3f0132861782add9d4d7db32ed1784ab8ce23"
     },
     {
       "path": "game/237.e6e8d75ae83a2403.js",
@@ -27,19 +42,14 @@
       "sha256": "7c4514e09faaf0ea8b4cbffa8dd1593d01f28a6a696b86cb952b0c849b221604"
     },
     {
-      "path": "game/468.859a347c805c6058.js",
-      "bytes": 373546,
-      "sha256": "4bad49b6e93e2f141955b0c444973c19134836de399a63c6e89524e35194b1e1"
+      "path": "game/468.670735fa6be3c6b5.js",
+      "bytes": 373641,
+      "sha256": "6edef2eaac4cc9e9e8763ca149c7571aa40463a869cd2d1cbdb341431d03b9c8"
     },
     {
-      "path": "game/468.859a347c805c6058.js.LICENSE.txt",
+      "path": "game/468.670735fa6be3c6b5.js.LICENSE.txt",
       "bytes": 735,
       "sha256": "292eec558524aec7eaa52c03bdc5c86b00115300c332add2671fee5696a0c844"
-    },
-    {
-      "path": "game/683.12addc75f8fe35d2.js",
-      "bytes": 36165025,
-      "sha256": "72527f0b5fb1d3a273658044334b13db960787fe68eb4c08e60cfb589223657d"
     },
     {
       "path": "game/702.2581c75cec56cca9.js",
@@ -47,9 +57,19 @@
       "sha256": "f231a8ebbc71bf1e9f958c0173eaa1c2ce9f27ec654ed00b6187278cc9dc7320"
     },
     {
-      "path": "game/923.b9783d9d2aa63469.js",
+      "path": "game/885.48ff1ee113307c39.js",
+      "bytes": 36232760,
+      "sha256": "d87566bb064612e388f7c9577db34c6145f3dfd143b6b9427cfab3be10827de4"
+    },
+    {
+      "path": "game/923.b1973a8d8c1276ac.js",
       "bytes": 14995,
-      "sha256": "4a759b63c04ab20ee20f2be8ebeaf4f4947031052abc4ebd9f8e0300b0d39d54"
+      "sha256": "691e91446f95bc5a8e36bad0d063f22b7cc5c9e1b423f104897cf5a8ea24caaf"
+    },
+    {
+      "path": "game/WindbotBrowser.578b1a7c198a98bd.wasm",
+      "bytes": 1182485,
+      "sha256": "578b1a7c198a98bd2b81624ee43856e169df013cd16c3eaae4d627d3fca2a8db"
     },
     {
       "path": "game/duel-worker.28f0db44599eebba.mjs",
@@ -57,14 +77,14 @@
       "sha256": "a8cb40f5362f5066b9a5e47aae61a7c637eb549e6637f2f7fd467a2bf3194790"
     },
     {
-      "path": "game/game.0ea7f5d7107615b5.js",
+      "path": "game/game.e8d6ef4e0fac0720.js",
       "bytes": 3869,
-      "sha256": "fedcbab38e87406f6b3cb338c445d8aa7e20ce60c9d06056285045ae83a3a15e"
+      "sha256": "bb76bf7614f818768c85c963cec6275809b064bc166bea0b6cc51e809d494c19"
     },
     {
       "path": "game/index.html",
-      "bytes": 527,
-      "sha256": "5cddea6f197bf37c105e27e431b587bd91cc39c06cb390de40fe8bca9e455a99"
+      "bytes": 528,
+      "sha256": "6d4cc61dbf3eb439c6953280113a0bb6e8724b36c05620d418637d83433fbab3"
     },
     {
       "path": "game/protectors/017bad0384771da0.png",
@@ -1432,19 +1452,19 @@
       "sha256": "93c1e38c8ecc3dfaca229e25b10b8d5d4b2d2256b4e9e3b9975249beb335d3b4"
     },
     {
-      "path": "game/WindbotBrowser.578b1a7c198a98bd.wasm",
-      "bytes": 1182485,
-      "sha256": "578b1a7c198a98bd2b81624ee43856e169df013cd16c3eaae4d627d3fca2a8db"
-    },
-    {
-      "path": "index.0.1.9.0a4cc5ff5fd0f053.js",
-      "bytes": 7943,
-      "sha256": "0a4cc5ff5fd0f053496299108008ed807910b005f2e8379db9158590a475ce31"
+      "path": "index.0.1.13.bf6cfdf0af7c9af8.js",
+      "bytes": 7944,
+      "sha256": "bf6cfdf0af7c9af81f4d79af169f1ef6a1957740e74dbeade6ed75b5dec50cd1"
     },
     {
       "path": "manifest.json",
-      "bytes": 489,
-      "sha256": "7b70f302cd1d236be3dd024504cba478273ae729572279d1b898248e36fe09f2"
+      "bytes": 491,
+      "sha256": "40b03ba3d7ec62da7154928ef0233c6c7cdfdb90af1072b9dd5efdeb70b6ba26"
+    },
+    {
+      "path": "notices/SourceHanSans-2.004R-OFL.txt",
+      "bytes": 4464,
+      "sha256": "48c81da1f503251256ecd8527476acd6dba2ac6a936655440950a9ea51ac7f51"
     },
     {
       "path": "notices/dotnet-runtime-MIT.txt",
@@ -1542,11 +1562,6 @@
       "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
     },
     {
-      "path": "notices/SourceHanSans-2.004R-OFL.txt",
-      "bytes": 4464,
-      "sha256": "48c81da1f503251256ecd8527476acd6dba2ac6a936655440950a9ea51ac7f51"
-    },
-    {
       "path": "notices/windbot-IceYGO-MIT.txt",
       "bytes": 1079,
       "sha256": "05f92cab7dc0668eb58519965c614d31bf357ab569bc2a53b3c267d6d46676ec"
@@ -1557,19 +1572,9 @@
       "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
     },
     {
-      "path": "README.md",
-      "bytes": 4549,
-      "sha256": "2e3e6f6018bbf57756317a2b2b68d52df9bae37bf8fcf822b6dc6173b66a3653"
-    },
-    {
       "path": "style.css",
       "bytes": 1706,
       "sha256": "af63e94be4b6e2e545c92981b6470402df10009986efa7bf1666c2e460d408ed"
-    },
-    {
-      "path": "THIRD-PARTY-NOTICES.md",
-      "bytes": 967,
-      "sha256": "846f9626ed992a41920702dd1fea107dac922bb5c04b56d3f0703f773ab87cfd"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "display_name": "MDPro3 决斗",
   "loading_order": 100,
   "dependencies": [],
-  "js": "index.0.1.9.0a4cc5ff5fd0f053.js",
+  "js": "index.0.1.13.bf6cfdf0af7c9af8.js",
   "css": "style.css",
   "author": "CloudXu",
   "homePage": "https://github.com/kuroneko0514/st-ygo",
-  "version": "0.1.9",
+  "version": "0.1.13",
   "auto_update": false,
   "minimum_client_version": "1.18.0",
   "hooks": {
