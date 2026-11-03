@@ -1,6 +1,6 @@
 {
   "schema": "mdpro3-extension-build-1",
-  "extensionVersion": "0.1.14",
+  "extensionVersion": "0.1.15",
   "programVersion": "mdpro3-w10-1",
   "resourceVersion": "w14-graves-e8ad35a1baf58f7a2ddebf5f",
   "hostBaseline": {
@@ -10,5 +10,14 @@
   "playerRuntime": "browser-only",
   "tavernHelperRequired": false,
   "realHostAccepted": false,
-  "mobileAccepted": false
+  "mobileAccepted": false,
+  "prerelease": {
+    "version": "ygopro-super-pre-29.27",
+    "sha256": "a1437f44fbe071a6d43e5544b0317b96890a34651adc0cb4a4f373693b26752b",
+    "cards": 148,
+    "ruleCodeCards": {
+      "101307048": 41463181,
+      "101307062": 1295111
+    }
+  }
 }
